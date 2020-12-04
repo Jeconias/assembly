@@ -1,5 +1,5 @@
 # Jeconias Santos
-# github.com/jeconiassantos/assembly
+# github.com/jeconias/assembly
 # v0.0.7
 
 .data
